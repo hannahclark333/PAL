@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PAL</string>
+    <string name="speed">Speed</string>
+    <string name="defense">Defense</string>
+    <string name="balance">Balance</string>
+    <string name="offense">Offense</string>
+</resources>
